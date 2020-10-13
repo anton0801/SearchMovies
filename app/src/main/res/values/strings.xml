@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">SearchMovies</string>
+
+    <string name="share_friend_label">Пригласить друга</string>
+    <string name="choose_app_label">Выбирите приложение</string>
+    <string name="share_text">Присоединяйтесь к нашему приложению по поиску фильмов "ссылка на приложение в google play"</string>
+
+    <string name="home_label">Главная</string>
+    <string name="about_label">О нас</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="exit_label">Выход</string>
+    <string name="exit_from_account_dialog_title">Выйти из аккаунта</string>
+    <string name="exit_from_account_dialog_message">Вы точно хотите выйти из аккаунта?</string>
+    <string name="yes_label">Да</string>
+    <string name="no_label">Нет</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found_error_text">К сожелению такого фильма нет</string>
+
 </resources>

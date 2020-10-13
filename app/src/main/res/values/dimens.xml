@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="app_margin">8dp</dimen>
+    <dimen name="app_margin_big">16dp</dimen>
+    <dimen name="app_margin_small">4dp</dimen>
+    <dimen name="app_padding">8dp</dimen>
+    <dimen name="app_padding_big">16dp</dimen>
+    <dimen name="app_padding_small">4dp</dimen>
+
+    <dimen name="nav_header_height">120dp</dimen>
+    <dimen name="nav_image_width_and_height">60dp</dimen>
+
+</resources>
