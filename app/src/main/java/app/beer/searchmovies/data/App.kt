@@ -51,7 +51,7 @@ class App : Application() {
         interceptor.level = if (BuildConfig.DEBUG)
             HttpLoggingInterceptor.Level.BODY
         else
-            HttpLoggingInterceptor.Level.NONE
+            HttpLoggingInterceptor.Level.HEADERS
 
         val okHttpClient = OkHttpClient.Builder()
             .callTimeout(60, TimeUnit.SECONDS)
